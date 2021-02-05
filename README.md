@@ -1,5 +1,5 @@
 # SDN-Vodafone
-Network management web application 
+Network Management Web Application 
 
 The chosen approach of implementing the network management application is to store the objects in a H2(in-memory) database and access them via JPA.
 
